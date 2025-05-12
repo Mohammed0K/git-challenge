@@ -53,8 +53,8 @@ _2022 – 2025_
 
 ## Certifications & Awards
 
-- **C Programming Professional Certificate**, Holberton School (Mar 2025)  
-- **Best Project** for “Simple Shell” at Tuwaiq Academy (Mar 2025)  
+- **Jr Data Scientist at INE (Nov 2024)  
+- **Google Data Analytics Specialization (Jun 2024)  
 
 ---
 
